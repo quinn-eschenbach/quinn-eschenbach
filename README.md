@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JayPigs, Astrocave and more ...**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Python and AI**
 
 - 💬 Ask me about **anything**
 
