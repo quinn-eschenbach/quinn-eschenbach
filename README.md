@@ -57,12 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/quinn-eschenbach/quinn-eschenbach/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-<h2 align="left">Some of my projects</h2>
+<h2 align="left">Some of my projects I did for fun</h2>
 
 ###
 
