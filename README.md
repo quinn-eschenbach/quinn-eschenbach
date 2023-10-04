@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Golang<br>🎯 Goals: Live on my own self-sufficient farm <br>🎲 Fun fact: i mined etherum and lost the keys to my wallet 😭<br>♟️ Challenge me on
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Golang<br>🎯 Goals: Live on my own self-sufficient farm <br>🎲 Fun fact: I mined etherum in 2016 and lost the keys to my wallet 😭<br>♟️ Challenge me on
   <a  target="_blank" rel="noopener noreferrer" href="https://www.chess.com/member/sirscofield">
     chess.com
   </a>
@@ -96,6 +96,7 @@
 		<li>NextJS</li>
 		<li>tRPC</li>
 		<li>TailwindCSS</li>
+		<li>retool</li>
 		<li>NextAuth</li>
 		<li>OpenAI</li>
 		<li>Prisma</li>
