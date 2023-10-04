@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Golang<br>🎯 Goals: Live on my own self-sufficient farm <br>🎲 Fun fact: i mined etherum and lost the keys to my wallet 😭<br>♟️ Challenge me on chess.com</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Golang<br>🎯 Goals: Live on my own self-sufficient farm <br>🎲 Fun fact: i mined etherum and lost the keys to my wallet 😭<br>♟️ Challenge me on
+  <a  target="_blank" rel="noopener noreferrer" href="https://www.chess.com/member/sirscofield">
+    chess.com
+  </a>
+  </p>
 
 ###
 
