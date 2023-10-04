@@ -85,12 +85,12 @@
 	</li>
 </ul>
 
-<p><strong>🏫 <a href="https://true-diploma-v2-production.up.railway.app/">True Diploma</a></strong></p>
+<p><strong>🏫 <a target="_blank" rel="noopener noreferrer" href="https://true-diploma-v2-production.up.railway.app/">True Diploma</a></strong></p>
 
 <ul>
 	<li>Created during &quot;bweekend&quot; hackathon by bcombinator in barcelona</li>
 	<li>A job seeker platform that lets job seekers create profiles that get verified and allows recruiters to find the perfect candidate using AI</li>
-	<li>Check this <a href="https://youtu.be/B8VNcnnfXlE">short video</a> I created for the final presentation</li>
+	<li>Check this <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/B8VNcnnfXlE">short video</a> I created for the final presentation</li>
 	<li>Technologies used:
 	<ul>
 		<li>Typescript</li>
