@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Some of my Projects</h2>
+<h2 align="left">Some of my projects</h2>
 
 ###
 
