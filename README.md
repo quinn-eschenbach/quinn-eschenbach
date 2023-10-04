@@ -24,14 +24,6 @@
 
 ###
 
-<h2 align="left">Some of my Projects</h2>
-
-###
-
-<p align="left">👨‍🎓 Astrocave Academy<br>🏫 True Diploma<br>⏰ Setnoftify</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -62,8 +54,76 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
+
 ###
 
 <img src="https://raw.githubusercontent.com/quinn-eschenbach/quinn-eschenbach/output/snake.svg" alt="Snake animation" />
 
+
 ###
+
+<h2 align="left">Some of my Projects</h2>
+
+###
+
+<p align="left">
+  <p>👨&zwj;🎓<strong> Astrocave Academy</strong></p>
+
+<ul>
+	<li>A crypto learning platform, developed during the Moralis x Avalanche Hackathon</li>
+	<li>Won 3rd place</li>
+	<li>Technologies used:&nbsp;
+	<ul>
+		<li>Typescript</li>
+		<li>NextJS</li>
+		<li>Material UI</li>
+		<li>Solidity</li>
+		<li>Hardhat</li>
+		<li>EthersJS</li>
+		<li>Moralis</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>🏫 <a href="https://true-diploma-v2-production.up.railway.app/">True Diploma</a></strong></p>
+
+<ul>
+	<li>Created during &quot;bweekend&quot; hackathon by bcombinator in barcelona</li>
+	<li>A job seeker platform that lets job seekers create profiles that get verified and allows recruiters to find the perfect candidate using AI</li>
+	<li>Technologies used:
+	<ul>
+		<li>Typescript</li>
+		<li>NextJS</li>
+		<li>tRPC</li>
+		<li>TailwindCSS</li>
+		<li>NextAuth</li>
+		<li>OpenAI</li>
+		<li>Prisma</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>⏰ Setnoftify</strong></p>
+
+<ul>
+	<li>Create custom and reliable remider for your google calendar events</li>
+	<li>Use a chrome extension or connect with thousands of app via Zapier to receive the reminders</li>
+	<li>Work in progress, lauching the MVP soon</li>
+	<li>Technologies used:
+	<ul>
+		<li>Typescript</li>
+		<li>NextJS</li>
+		<li>tRPC</li>
+		<li>Prisma</li>
+		<li>TailwindCSS</li>
+		<li>shadcn/ui</li>
+		<li>googleapis</li>
+		<li>NextAuth</li>
+		<li>pusher</li>
+		<li>inngest</li>
+	</ul>
+	</li>
+</ul>
+
+</p>
+
