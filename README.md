@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">Some of my projects I did for fun</h2>
+<h2 align="left">Some projects I did for fun</h2>
 
 ###
 
